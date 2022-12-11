@@ -7,6 +7,8 @@
 Гиперкежуал гонка на выживание. 
 Платформа: Android.  
 
+**Технологии:** C#, Unity, Git, Zenject, UniRX  
+
 [**Видео геймплея**](https://youtu.be/4pgQJndekcA)  
 [**GitHub**](https://github.com/plotnik14/PlanetRider)  
 
@@ -26,6 +28,7 @@
 *	Верстка HUD и всех необходимых для игры UI элементов.  
 *	Взаимодействие с камерой с помощью Cinemachine.  
 *	Реализация кат-сцен.  
+*	Parallax effect для изображений.  
 *	Освещение на основе Universal Rendering Pipeline.  
 *	Сборка под PC.  
 
@@ -48,7 +51,6 @@
 *	Взаимодействие с камерой с помощью Cinemachine.  
 *	Освещение на основе Universal Rendering Pipeline.  
 *	Использование Particles System для дополнительных эффектов.  
-*	Parallax effect для изображений.
 *	Оптимизация с помощью Profiler и Sprite Atlas.  
 *	Сборки под PC, Android и WebGL.  
 
