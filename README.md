@@ -26,7 +26,10 @@
 **Технологии:** C#, Unity, Git.  
 
 [**Видео геймплея** (GameJam version)](https://youtu.be/fZmjbFi3S4M)  
-[**GitHub**](https://github.com/plotnik14/xyz-cherry-jam)  
+[**GitHub**](https://github.com/plotnik14/xyz-cherry-jam) 
+
+### Gameplay Screenshots
+<img src="Erebos/Screenshot_10.png" width="800"> <img src="Erebos/Screenshot_13.png" width="800"> <img src="Erebos/Screenshot_14.png" width="800"> <img src="Erebos/Screenshot_15.png" width="800"> <img src="Erebos/Screenshot_9.png" width="800"> 
 
 # PIRATE ADVENTURE  
 2D платформер про пирата. Игра является выпускным проектом курса Unity от школы XYZ. В рамках проекта реализованы:  
