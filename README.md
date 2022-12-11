@@ -49,3 +49,6 @@
 
 [**Видео геймплея**](https://youtu.be/l0xrb2JOxwo)  
 [**GitHub**](https://github.com/plotnik14/platformer-xyz)  
+
+### Gameplay Screenshots
+<img src="PirateAdventure/Screenshot_9.png" width="800"> <img src="PirateAdventure/Screenshot_10.png" width="800"> <img src="PirateAdventure/Screenshot_11.png" width="800"> <img src="PirateAdventure/Screenshot_12.png" width="800"> <img src="PirateAdventure/Screenshot_13.png" width="800"> <img src="PirateAdventure/Screenshot_14.png" width="800"> <img src="PirateAdventure/Screenshot_15.png" width="800"> 
