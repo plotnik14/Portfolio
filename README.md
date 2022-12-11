@@ -5,6 +5,9 @@
 [**Видео геймплея**](https://youtu.be/4pgQJndekcA)  
 [**GitHub**](https://github.com/plotnik14/PlanetRider)  
 
+### Gameplay Screenshots
+<img src="PlanetRider/MainMenu.png" height="400"> <img src="PlanetRider/Gameplay1.png" height="400"> <img src="PlanetRider/Gameplay2.png" height="400"> <img src="PlanetRider/GameOver.png" height="400">
+
 
 # ЭРЕБОС  
 **Проект находится на стадии доработки.**  
